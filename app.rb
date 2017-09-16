@@ -4,5 +4,5 @@ set :bind, '0.0.0.0'
 set :port, 8080
 
 get '/' do
-  "Hallo Linux-Stammtisch, schön hier zu sein"
+  "Version 2 of Sinatra"
 end
