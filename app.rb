@@ -4,5 +4,5 @@ set :bind, '0.0.0.0'
 set :port, 8080
 
 get '/' do
-   "Welcome to OpenShift Arch Workshop! "
+   "Welcome to OpenShift Arch Workshop! Thanks for joining!"
 end
